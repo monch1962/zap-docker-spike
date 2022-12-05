@@ -1,0 +1,10 @@
+<script>
+    <scripts>
+        <name>Scan for anonymous requests</name>
+        <description/>
+        <engine>Oracle Nashorn</engine>
+        <type>passive</type>
+        <enabled>true</enabled>
+        <file>/home/zap/scripts/passive/annon-pasv-scanner.js</file>
+    </scripts>
+</script>
